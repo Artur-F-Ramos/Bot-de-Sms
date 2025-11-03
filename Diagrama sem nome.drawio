@@ -1,9 +1,164 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 OPR/122.0.0.0" version="28.2.9">
   <diagram name="Página-1" id="SzDcoqK0Ivli8ZiqwEE_">
-    <mxGraphModel>
+    <mxGraphModel dx="1381" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="U93pexgcHglPeiEcZcER-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U93pexgcHglPeiEcZcER-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-2" value="FTP&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="460" y="420" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U93pexgcHglPeiEcZcER-4" target="U93pexgcHglPeiEcZcER-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-4" value="Insere data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U93pexgcHglPeiEcZcER-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-8" value="SIM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U93pexgcHglPeiEcZcER-7">
+          <mxGeometry x="-0.1545" y="-2" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U93pexgcHglPeiEcZcER-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-15" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U93pexgcHglPeiEcZcER-14">
+          <mxGeometry x="-0.0267" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-5" value="A data é D-1 ?" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U93pexgcHglPeiEcZcER-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="715" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-18" value="FTP/ENVIADOS&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="640" y="390" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U93pexgcHglPeiEcZcER-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="975" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-20" value="FTP/INTEGRACAO&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="640" y="910" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-21" value="PEGA ARQUIVO&lt;div&gt;PESQUISA_DIARIA_(D+1)0005*.CSV E SALVA EM UM DF&lt;br&gt;&lt;br&gt;D+1 = DATA INSERIDA +1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="586.25" y="640" width="257.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="U93pexgcHglPeiEcZcER-21" target="U93pexgcHglPeiEcZcER-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U93pexgcHglPeiEcZcER-25" target="U93pexgcHglPeiEcZcER-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1434" y="975" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-25" value="PEGA ARQUIVO&lt;div&gt;PESQUISA_DIARIA_(D+1)1000*.CSV E SALVA EM UM DF&lt;br&gt;&lt;br&gt;D+1 = DATA INSERIDA +1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="983" y="920" width="257.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U93pexgcHglPeiEcZcER-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1780" y="975" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-27" value="CONCATENA ARQUIVOS E TRATA DADOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1374" y="910" width="216" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-29" value="BANCO DE DADOS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="890" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-31" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;DATAREF&lt;/h1&gt;&lt;div&gt;Ao inserir os dados colocar na coluna nova chamada dataref&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a data vinda do front e não a data d+1&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2285" y="760" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U93pexgcHglPeiEcZcER-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-32" value="FTP&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="150" y="640" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U93pexgcHglPeiEcZcER-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-35" value="FTP/ENVIADOS&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="105" y="880" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="U93pexgcHglPeiEcZcER-37" target="U93pexgcHglPeiEcZcER-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2280" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-40" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Insere novos dados com a dataref utilizada&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U93pexgcHglPeiEcZcER-39">
+          <mxGeometry x="-0.1385" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-37" value="BANCO DE DADOS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="890" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-38" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;DATAREF&lt;/h1&gt;&lt;div&gt;Delete linhas que tem a mesma dataref vinda do front&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="770" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U93pexgcHglPeiEcZcER-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="1235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-42" value="PEGA ARQUIVO&lt;div&gt;PESQUISA_DIARIA_(D+1)0005*.CSV E SALVA EM UM DF&lt;/div&gt;&lt;div&gt;PESQUISA_DIARIA_(D+2)0005*.CSV E SALVA EM UM DF&lt;/div&gt;&lt;div&gt;&lt;br&gt;D+1 = DATA INSERIDA +1&lt;/div&gt;&lt;div&gt;D+2 = DATA INSERIDA +2&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1150" width="257.5" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U93pexgcHglPeiEcZcER-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="1235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-44" value="CONCATENA ARQUIVOS E TRATA DADOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="574" y="1170" width="216" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U93pexgcHglPeiEcZcER-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1430" y="1480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1035" y="1480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-46" value="BANCO DE DADOS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1150" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-47" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;DATAREF&lt;/h1&gt;&lt;div&gt;Delete linhas que tem a mesma dataref vinda do front&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1060" width="180" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="U93pexgcHglPeiEcZcER-46" target="U93pexgcHglPeiEcZcER-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-51" value="BANCO DE DADOS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1425" y="1390" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-52" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;DATAREF&lt;/h1&gt;&lt;div&gt;Ao inserir os dados colocar na coluna nova chamada dataref&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a data vinda do front e não a data d+1&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="1260" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="U93pexgcHglPeiEcZcER-53" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Insere novos dados com a dataref utilizada&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1180" y="1480" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
